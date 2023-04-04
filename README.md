@@ -1,5 +1,5 @@
 # Dialogue Act Recognition
-Experimenting whether text based, speech based, or text + speech based features are most effective.
+Experimenting whether text-based or speech-based features are most effective for recognizing dialogue acts in speech.
 
 ## Requirements
 `parselmouth`
